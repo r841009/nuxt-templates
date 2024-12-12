@@ -1,0 +1,12 @@
+- components/ (存放VUE元件)
+- composable/ (存放VUE組合式函數)
+- utils/ (存放輔助函數和工具)
+- public/ (存放靜態檔案)
+- server/tsconfig.json (server/ 的 typescript 管理文件，預設對應至自動產生的 ../.nuxt/tsconfig.server.json)
+- app.vue (主元件，會在此檔案設定 pages/ 對應的 <NuxtPage/> 位置。如果有用到 layout 也會在 app.vue 設定 <NuxtLayout>) (*在 app.vue 引入的 js 或 css 會被當作全域引入)
+- nuxt.config.ts (nuxt的管理文件。)
+
+- plugins (存放掛載元件)(自動載入)
+
+
+

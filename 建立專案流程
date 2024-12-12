@@ -1,0 +1,21 @@
+0-1.安裝Node.js
+0-2 更新npm到最新版
+npm install -g npm@latest
+
+1.建立專案
+npx nuxi init 專案名稱
+
+2.確認庫都安裝成功
+npm install
+
+3.安裝axios
+npm install axios
+
+4.安裝vuetify 元件框架 & 相關依賴
+npm i -D vuetify vite-plugin-vuetify
+npm i @mdi/font
+
+5.外掛Vuetify 進專案
+
+
+

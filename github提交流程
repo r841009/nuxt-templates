@@ -1,0 +1,18 @@
+1.移動到需要的folder 底下 Ex. Nuxt/
+
+2.初始化倉庫
+git init
+
+3.添加所有文件
+git add.
+
+4.提交代碼
+git commit -m "UPDATE_INFO"
+Ex. git commit -m "Initial commit"
+
+5.連結到GitHub倉庫
+git remote add origin https://github.com/r841009/nuxt-templates.git
+
+6.將代碼推送到Github
+git branch -M main
+git push -u origin main
