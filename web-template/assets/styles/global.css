@@ -1,0 +1,16 @@
+body, *:lang(en) {
+    font-family: "Arial", sans-serif;
+}
+
+*:lang(zh){
+    font-family: "Noto Sans TC", serif;
+}
+
+body{
+    font-family: "Arial", sans-serif;
+}
+
+body{
+    font-family: "Noto Sans TC", serif;
+    unicode-range: U+4E00-9FFF, U+3400-4DBF, U+20000-2A6DF;
+}

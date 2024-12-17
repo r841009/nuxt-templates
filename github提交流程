@@ -4,7 +4,7 @@
 git init
 
 3.添加所有文件
-git add.
+git add .
 
 4.提交代碼
 git commit -m "UPDATE_INFO"
